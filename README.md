@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! My name is Thales Nunes 👋
 
-<!--
-**thalesnunes/thalesnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/thalesnunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesnunes&layout=compact&langs_count=3&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning a lot about Linux & Neovim, trying to keep things minimalistic!
+- 👯 I’m looking to collaborate on open source productivity tools.
+- 🤔 I’m looking for help with Data Engineering concepts and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Happy Coding!
